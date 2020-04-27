@@ -18,7 +18,7 @@ Cloud PaaS Education
 [구글](www.google.com"구글")
 
 ## 개요 2-3 이미지 링크
-![이미지1]{./image1.jpg}
+![이미지1](./image1.jpg)
 
 ## 개요 2-4 코드 블럭
 ```
