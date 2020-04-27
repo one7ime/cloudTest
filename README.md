@@ -10,6 +10,7 @@ Cloud PaaS Education
 ## 개요 2-1 표 만들기
  
  key | value
+ --- | ---
  sss | ccc
  ddd | fff
  
